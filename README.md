@@ -4,7 +4,7 @@ Create a new React-based Google Books Search app. Create React components, work 
 <br>
 ==============
 
-![img](richDad.png)  
+![image](richDad.png)  
 
 <br>
 
