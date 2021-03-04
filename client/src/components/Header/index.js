@@ -1,6 +1,7 @@
 import React from "react";
 import "../Style/Style.css";
 
+// show page header
 function Header() {
   return (
     <div>
