@@ -7,7 +7,7 @@ function Header() {
     <div>
       <header className="header">
         <h1> Google Book Search </h1>
-        <h2> Search for and save books of interest </h2>
+        <h2> Search for any book </h2>
       </header>
     </div>
   )

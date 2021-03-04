@@ -9,13 +9,13 @@ function SearchForm(props) {
         <div className="row">
           <div className="col-md-4"></div>
           <div className="col-md-4">
-            <label className="form-label">Look for your book</label>
+            <label className="form-label">Search Here</label>
             <input for="inputPassword6" onChange={(event) => {
               event.preventDefault();
               // console.log("banana")
               props.loadBooks(event)
             }
-            } placeholder='Search for a book title!' type="text" className="form-control" id="exampleInput" aria-describedby="" />
+            } placeholder='Search' type="text" className="form-control" id="exampleInput" aria-describedby="" />
 
           </div>
           <div className="col-md-4"></div>
